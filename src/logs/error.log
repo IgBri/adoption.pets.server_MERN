@@ -453,3 +453,4 @@ error: El correo electronico ya se encuentra en uso {"timestamp":"2025-06-29T18:
 error: El correo electronico ya se encuentra en uso {"timestamp":"2025-06-29T18:28:28.132Z"}
 error: PETS ROUTER test error - after Operation `users.deleteMany()` buffering timed out after 10000ms {"stack":"MongooseError: Operation `users.deleteMany()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:153:23)\n    at listOnTimeout (node:internal/timers:588:17)\n    at process.processTimers (node:internal/timers:523:7)","timestamp":"2025-06-29T19:22:08.263Z"}
 error: El correo electronico ya se encuentra en uso {"timestamp":"2025-07-13T21:19:11.019Z"}
+error: El correo electronico ya se encuentra en uso {"timestamp":"2025-07-13T21:40:46.078Z"}

@@ -6,7 +6,7 @@ import { generateUser } from "../../src/mocks/userMocks.js";
 import { logger } from "../../src/utils/logger.js";
 import { connectDBtest } from "../utils/utils_test.js";
 
-process.loadEnvFile("./src/config/.env.test")
+process.loadEnvFile("./src/config/.env.test");
 const requester = supertest(`http://localhost:${process.env.PORT}`);
 
 describe("Sessions router TEST", function () {

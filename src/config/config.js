@@ -1,5 +1,5 @@
 import { Command } from "commander";
-import dotenv from "dotenv";
+//import dotenv from "dotenv";
 
 const program = new Command();
 
@@ -9,7 +9,7 @@ program
 program.parse()
 
 
-function dotenvPath () {
+function envPath () {
     let path;
     switch(program.opts().mode){
         case "production":
@@ -26,12 +26,12 @@ function dotenvPath () {
     return path;
 };
 
-dotenv.config({
-    // path: enviroment === "production" ? "./src/config/.env.production" : "./src/config/.env.development"
-    path: dotenvPath()
-});
+process.loadEnvFile(envPath())
 
-console.log("variables de entorno: ", process.env.PORT, program.opts().mode, process.env.JWT_SECRET)
+// dotenv.config({
+//     // path: enviroment === "production" ? "./src/config/.env.production" : "./src/config/.env.development"
+//     path: dotenvPath()
+// });
 
 export default {
     port: process.env.PORT,
