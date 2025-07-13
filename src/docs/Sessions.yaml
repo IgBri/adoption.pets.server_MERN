@@ -1,0 +1,118 @@
+paths:
+  /api/sessions/register/:
+    post:
+      summary: Registro de usuario | Creacion de usuario
+      tags:
+      - Sessions
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#components/requestBodies/createUser"
+      responses:
+        200:
+          description: Registro de usuario exitoso
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: "Estado de la respuesta"
+                  payload:
+                    type: string
+                    example: 685bf0e920f3f44f793a80a5
+        400:
+          description: Error en el registro del usuario
+          content:
+            application/json:
+              schema:
+                $ref: "#components/schemas/error400"
+        500:
+          description: Error interno del servidor
+          content:
+            application/json:
+              schema:
+                $ref: "#components/schemas/error500"
+  /api/sessions/login/:
+    post:
+      summary: Login de usuario
+      tags:
+      - Sessions
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                email:
+                  type: string
+                  example: ejemplo@ejemplo.com
+                password:
+                  type: string
+                  example: coder123
+      responses:
+        200:
+          description: Login exitoso
+          headers:
+            Set-Cookie:
+              description: Cookie de sesion generada
+              schema:
+                type: string
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: success
+                  message:
+                    type: string
+                    example: Login exitoso
+                  loggedAt:
+                    type: string
+                    format: date-time
+                    example: 2025-06-27T18:28:03.093Z
+        400:
+          description: Error en el login del usuario
+          content:
+            application/json:
+              schema:
+                $ref: "#components/schemas/error400"
+        "404":
+          description: Obtencion de usuarios erronea
+          content:
+            application/json:
+              schema:
+                $ref: "#components/schemas/error404"
+        "500":
+          description: Error interno del servidor
+          content:
+            application/json:
+              schema:
+                $ref: "#components/schemas/error500"
+  /api/sessions/current/:
+    get:
+      summary: Validacion de cookie de usuario
+      tags: 
+      - Sessions
+      responses:
+        "200":
+          description: Cookie validada
+          content:
+        "404":
+          description: Obtencion de cookie erronea
+          content:
+            application/json:
+              schema:
+                $ref: "#components/schemas/error404"
+        "500":
+          description: Error interno del servidor
+          content:
+            application/json:
+              schema:
+                $ref: "#components/schemas/error500"

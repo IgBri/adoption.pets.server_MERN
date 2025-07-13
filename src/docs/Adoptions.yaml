@@ -1,0 +1,136 @@
+paths:
+  /api/adoptions/:
+    get:
+      summary: Obtencion de todas las adopciones vigentes
+      tags:
+      - Adoptions
+      responses:
+        200:
+          description: Adopciones vigentes
+          content: 
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status: 
+                    type: string
+                    example: success
+                  payload:
+                    type: array
+                    items:
+                      $ref: "#components/schemas/Pet"
+        500:
+          description: Error interno del servidor
+          content:
+            application/json:
+              schema:
+                $ref: "#components/schemas/error500"
+  /api/adoptions/{aid}/:
+    get:
+      summary: Obtencion de una adopcion en base a un id
+      tags:
+      - Adoptions
+      parameters:
+      - name: aid
+        in: path
+        required: true
+        description: ID de la adopcion buscada
+        schema: 
+          type: string
+      responses:
+        200:
+          description: Adopcion registrada
+          content:
+            application/json:
+              schema: 
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: success
+                  payload: 
+                    $ref: "#components/schemas/Adoption"
+        400:
+          description: No se ingreso ID de adopcion
+          content:
+            application/json:
+              schema:
+                $ref: "#components/schemas/error400"
+        404:
+          description: Obtencion de mascotas erronea
+          content:
+            application/json:
+              schema:
+                $ref: "#components/schemas/error404"
+        500:
+          description: Error interno del servidor
+          content:
+            application/json:
+              schema:
+                $ref: "#components/schemas/error500"
+  /api/adoptions/{uid}/{pid}/:
+    post:
+      summary: Generar adopcion entre usuario y mascota
+      tags:
+      - Adoptions
+      parameters:
+      - name: uid
+        in: path
+        required: true
+        description: ID del usuario para efectuar adopcion
+        schema:
+          type: string
+      - name: pid
+        in: path
+        required: true
+        description: ID de la mascota a adoptar
+        schema: 
+          type: string
+      responses:
+        201:
+          description: Adopcion ejecutada correctamente
+          content: 
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: success
+                  message:  
+                    type:
+                    example: Pet adopted 
+        400:
+          description: No se ingreso ID de adopcion
+          content:
+            application/json:
+              schema:
+                $ref: "#components/schemas/error400"
+        404:
+          description: Obtencion de mascotas erronea
+          content:
+            application/json:
+              schema:
+                $ref: "#components/schemas/error404"
+        409:
+          description:
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status: 
+                    type: string
+                    example: error
+                  errorName:
+                    type: string  
+                    example: Documento inmodificable
+                  message: 
+                    type: string
+                    example: Mascota ya adoptada
+        500:
+          description: Error interno del servidor
+          content:
+            application/json:
+              schema:
+                $ref: "#components/schemas/error500"

@@ -1,0 +1,455 @@
+error: Error forzado en el DAO de pet {"timestamp":"2025-06-06T22:27:14.690Z"}
+error: Error forzado en el DAO de pet {"timestamp":"2025-06-06T22:27:52.129Z"}
+error: Error en la obtencion de documentos Pets {"timestamp":"2025-06-06T22:30:31.487Z"}
+error: Debes pasar correctamente los datos para crear la mascota {"timestamp":"2025-06-06T22:40:56.642Z"}
+error: Debes pasar correctamente los datos para crear la mascota {"timestamp":"2025-06-06T22:41:11.801Z"}
+error: Unexpected token 'i', ..."  "name": ipa,
+    "... is not valid JSON {"timestamp":"2025-06-06T22:42:18.860Z"}
+error: Error capturado en updatePet:  Informacion para editar la mascota incompleta {"cause":"Faltan campos por completar","code":400,"custom":true,"name":"updateError","stack":"updateError: Informacion para editar la mascota incompleta\n    at CustomError.generateError (file:///C:/Users/Asus/Desktop/ADOPTME/src/utils/CustomError.js:3:21)\n    at updatePet (file:///C:/Users/Asus/Desktop/ADOPTME/src/controllers/pets.controller.js:63:25)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:284:15\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:376:14)\n    at Function.process_params (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:421:3)","timestamp":"2025-06-06T22:48:04.727Z"}
+error: Informacion para editar la mascota incompleta {"timestamp":"2025-06-06T22:48:04.729Z"}
+error: Informacion para editar la mascota incompleta {"timestamp":"2025-06-06T23:11:09.471Z"}
+error: Informacion para editar la mascota incompleta {"timestamp":"2025-06-06T23:13:41.567Z"}
+error: Informacion para editar la mascota incompleta {"timestamp":"2025-06-06T23:14:03.705Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-06T23:21:40.084Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-06T23:22:20.571Z"}
+error: Usuario no encontrado {"timestamp":"2025-06-06T23:46:44.353Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-07T19:44:05.245Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-07T22:52:26.302Z"}
+error: Debes pasar correctamente los datos para crear la mascota {"timestamp":"2025-06-10T19:44:31.288Z"}
+error: Debes pasar correctamente los datos para crear la mascota {"timestamp":"2025-06-10T19:46:19.149Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T22:38:02.790Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T22:38:39.963Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T22:38:53.380Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T22:47:55.912Z"}
+error: Campos incompletos para login {"timestamp":"2025-06-11T22:47:55.921Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T22:48:15.661Z"}
+error: Campos incompletos para login {"timestamp":"2025-06-11T22:48:15.670Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T22:49:25.142Z"}
+error: Campos incompletos para login {"timestamp":"2025-06-11T22:49:25.153Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T22:51:22.639Z"}
+error: Campos incompletos para login {"timestamp":"2025-06-11T22:51:22.648Z"}
+error: El correo electronico ya se encuentra en uso {"timestamp":"2025-06-11T22:51:57.978Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T22:51:58.002Z"}
+error: Campos incompletos para login {"timestamp":"2025-06-11T22:51:58.014Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T22:52:28.642Z"}
+error: Campos incompletos para login {"timestamp":"2025-06-11T22:52:28.651Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T22:53:02.762Z"}
+error: Campos incompletos para login {"timestamp":"2025-06-11T22:53:02.779Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T22:53:27.437Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T22:55:27.418Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T22:55:45.734Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T22:57:47.105Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T22:58:55.546Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T22:59:22.003Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T23:06:42.657Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-11T23:07:42.712Z"}
+error: No se encontro usuario en la base de datos con el mail ingresado {"timestamp":"2025-06-12T01:38:12.591Z"}
+error: No se encontro usuario en la base de datos con el mail ingresado {"timestamp":"2025-06-12T01:38:25.176Z"}
+error: No se encontro usuario en la base de datos con el mail ingresado {"timestamp":"2025-06-12T01:39:12.085Z"}
+error: El correo electronico ya se encuentra en uso {"timestamp":"2025-06-12T01:42:10.065Z"}
+error: El correo electronico ya se encuentra en uso {"timestamp":"2025-06-12T01:49:42.686Z"}
+error: El correo electronico ya se encuentra en uso {"timestamp":"2025-06-12T01:51:24.478Z"}
+error: No se encontro usuario en la base de datos con el mail ingresado {"timestamp":"2025-06-12T02:09:31.101Z"}
+error: No se encontro usuario en la base de datos con el mail ingresado {"timestamp":"2025-06-12T02:09:40.690Z"}
+error: No se encontro usuario en la base de datos con el mail ingresado {"timestamp":"2025-06-12T02:10:00.645Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-12T11:35:32.650Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-12T11:43:34.432Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-12T11:49:12.394Z"}
+error: Error en la obtencion de documentos Pets {"timestamp":"2025-06-13T01:28:59.998Z"}
+error: El correo electronico ya se encuentra en uso {"timestamp":"2025-06-13T15:10:29.846Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T15:11:44.428Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T15:12:24.283Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T15:13:37.840Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T15:19:37.868Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T15:21:47.691Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T15:22:32.025Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T15:26:18.045Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T15:28:52.137Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T15:34:26.820Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T15:35:28.915Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T15:35:40.076Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T15:40:35.123Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T15:41:37.741Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T15:44:27.919Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T15:45:59.133Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T19:01:13.021Z"}
+error: El correo electronico ya se encuentra en uso {"timestamp":"2025-06-13T19:09:47.650Z"}
+error: El correo electronico ya se encuentra en uso {"timestamp":"2025-06-13T19:14:51.560Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T19:14:51.580Z"}
+error: El correo electronico ya se encuentra en uso {"timestamp":"2025-06-13T19:18:12.039Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T19:19:14.177Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T19:19:53.561Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T19:20:24.144Z"}
+error: Se deben completar todos los campos {"timestamp":"2025-06-13T19:21:00.827Z"}
+error: La cookie esta vacia {"timestamp":"2025-06-13T22:05:30.208Z"}
+error: Error en la obtencion de documentos Pets {"timestamp":"2025-06-14T13:34:13.976Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-15T00:09:50.148Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-15T01:23:13.241Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T13:11:20.116Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-15T13:17:59.108Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-15T13:17:59.122Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T13:17:59.141Z"}
+error: Error capturado en deleteUser:  El id ingresado es invalido {"cause":"El id ingresado no corresponde a un ObjectId de Mongo","code":400,"custom":true,"name":"DATA_INVALID","stack":"DATA_INVALID: El id ingresado es invalido\n    at CustomError.generateError (file:///C:/Users/Asus/Desktop/ADOPTME/src/utils/CustomError.js:3:21)\n    at deleteUser (file:///C:/Users/Asus/Desktop/ADOPTME/src/controllers/users.controller.js:77:25)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:284:15\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:376:14)\n    at Function.process_params (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:421:3)","timestamp":"2025-06-15T13:17:59.157Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-15T13:17:59.159Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T13:21:36.736Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-15T13:22:21.325Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-15T13:22:21.339Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T13:22:21.351Z"}
+error: Error capturado en deleteUser:  El id ingresado es invalido {"cause":"El id ingresado no corresponde a un ObjectId de Mongo","code":400,"custom":true,"name":"DATA_INVALID","stack":"DATA_INVALID: El id ingresado es invalido\n    at CustomError.generateError (file:///C:/Users/Asus/Desktop/ADOPTME/src/utils/CustomError.js:3:21)\n    at deleteUser (file:///C:/Users/Asus/Desktop/ADOPTME/src/controllers/users.controller.js:77:25)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:284:15\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:376:14)\n    at Function.process_params (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:421:3)","timestamp":"2025-06-15T13:22:21.363Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-15T13:22:21.364Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-15T13:23:45.634Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T13:24:34.687Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-15T13:27:22.321Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-15T13:27:22.330Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T13:27:22.339Z"}
+error: Error capturado en deleteUser:  El id ingresado es invalido {"cause":"El id ingresado no corresponde a un ObjectId de Mongo","code":400,"custom":true,"name":"DATA_INVALID","stack":"DATA_INVALID: El id ingresado es invalido\n    at CustomError.generateError (file:///C:/Users/Asus/Desktop/ADOPTME/src/utils/CustomError.js:3:21)\n    at deleteUser (file:///C:/Users/Asus/Desktop/ADOPTME/src/controllers/users.controller.js:77:25)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:284:15\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:376:14)\n    at Function.process_params (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:421:3)","timestamp":"2025-06-15T13:27:22.347Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-15T13:27:22.348Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T13:29:16.186Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T13:29:34.680Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T13:29:51.051Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T13:30:01.602Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T13:30:18.239Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T13:33:16.535Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T13:33:33.991Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T13:33:45.524Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T13:35:43.419Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T13:35:57.471Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T23:09:40.933Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T23:10:45.785Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-15T23:17:46.488Z"}
+error: Campos ingresados invalidos {"timestamp":"2025-06-15T23:18:38.533Z"}
+error: Usuario no encontrado {"timestamp":"2025-06-15T23:22:08.112Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-15T23:28:40.650Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-15T23:28:40.676Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-15T23:28:40.692Z"}
+error: Error capturado en deleteUser:  El id ingresado es invalido {"cause":"El id ingresado no corresponde a un ObjectId de Mongo","code":400,"custom":true,"name":"DATA_INVALID","stack":"DATA_INVALID: El id ingresado es invalido\n    at CustomError.generateError (file:///C:/Users/Asus/Desktop/ADOPTME/src/utils/CustomError.js:3:21)\n    at deleteUser (file:///C:/Users/Asus/Desktop/ADOPTME/src/controllers/users.controller.js:77:25)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:284:15\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:376:14)\n    at Function.process_params (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:421:3)","timestamp":"2025-06-15T23:28:40.706Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-15T23:28:40.707Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-19T02:10:30.349Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-19T02:11:57.185Z"}
+error: Unexpected field {"timestamp":"2025-06-19T02:14:29.835Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-19T15:30:03.583Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-20T15:10:09.279Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-20T15:10:09.298Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-20T15:10:09.320Z"}
+error: Error capturado en deleteUser:  El id ingresado es invalido {"cause":"El id ingresado no corresponde a un ObjectId de Mongo","code":400,"custom":true,"name":"DATA_INVALID","stack":"DATA_INVALID: El id ingresado es invalido\n    at CustomError.generateError (file:///C:/Users/Asus/OneDrive/Escritorio/ADOPTME/src/utils/CustomError.js:3:21)\n    at deleteUser (file:///C:/Users/Asus/OneDrive/Escritorio/ADOPTME/src/controllers/users.controller.js:77:25)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:284:15\n    at param (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:376:14)\n    at Function.process_params (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:421:3)","timestamp":"2025-06-20T15:10:09.326Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-20T15:10:09.331Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-20T15:10:33.675Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-20T15:10:33.692Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-20T15:10:33.701Z"}
+error: Error capturado en deleteUser:  El id ingresado es invalido {"cause":"El id ingresado no corresponde a un ObjectId de Mongo","code":400,"custom":true,"name":"DATA_INVALID","stack":"DATA_INVALID: El id ingresado es invalido\n    at CustomError.generateError (file:///C:/Users/Asus/OneDrive/Escritorio/ADOPTME/src/utils/CustomError.js:3:21)\n    at deleteUser (file:///C:/Users/Asus/OneDrive/Escritorio/ADOPTME/src/controllers/users.controller.js:77:25)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:284:15\n    at param (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:376:14)\n    at Function.process_params (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:421:3)","timestamp":"2025-06-20T15:10:33.708Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-20T15:10:33.709Z"}
+error: No se encontro usuario en la base de datos con el mail ingresado {"timestamp":"2025-06-20T20:01:42.307Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-21T21:57:23.557Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-21T21:57:23.583Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-21T21:57:23.593Z"}
+error: Error capturado en deleteUser:  El id ingresado es invalido {"cause":"El id ingresado no corresponde a un ObjectId de Mongo","code":400,"custom":true,"name":"DATA_INVALID","stack":"DATA_INVALID: El id ingresado es invalido\n    at CustomError.generateError (file:///C:/Users/Asus/OneDrive/Escritorio/ADOPTME/src/utils/CustomError.js:3:21)\n    at deleteUser (file:///C:/Users/Asus/OneDrive/Escritorio/ADOPTME/src/controllers/users.controller.js:77:25)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:284:15\n    at param (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:376:14)\n    at Function.process_params (C:\\Users\\Asus\\OneDrive\\Escritorio\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:421:3)","timestamp":"2025-06-21T21:57:23.604Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-21T21:57:23.605Z"}
+error: Error en la obtencion de documentos Pets {"timestamp":"2025-06-23T01:28:45.616Z"}
+error: Debes pasar correctamente los datos para crear la mascota {"timestamp":"2025-06-23T01:34:03.230Z"}
+error: Error en la obtencion de documentos Pets {"timestamp":"2025-06-23T01:34:03.257Z"}
+error: Debes pasar correctamente los datos para crear la mascota {"timestamp":"2025-06-23T01:34:30.071Z"}
+error: Error en la obtencion de documentos Pets {"timestamp":"2025-06-23T01:34:30.100Z"}
+error: Debes pasar correctamente los datos para crear la mascota {"timestamp":"2025-06-23T01:35:22.810Z"}
+error: Error en la obtencion de documentos Pets {"timestamp":"2025-06-23T01:35:22.836Z"}
+error: Debes pasar correctamente los datos para crear la mascota {"timestamp":"2025-06-23T01:35:57.219Z"}
+error: Error en la obtencion de documentos Pets {"timestamp":"2025-06-23T01:35:57.244Z"}
+error: Debes pasar correctamente los datos para crear la mascota {"timestamp":"2025-06-23T01:37:07.953Z"}
+error: Error en la obtencion de documentos Pets {"timestamp":"2025-06-23T01:37:07.979Z"}
+error: Debes pasar correctamente los datos para crear la mascota {"timestamp":"2025-06-23T01:37:49.207Z"}
+error: Error en la obtencion de documentos Pets {"timestamp":"2025-06-23T01:37:49.231Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-23T11:49:41.375Z"}
+error: DAO test error - after mongooose is not defined {"stack":"ReferenceError: mongooose is not defined\n    at Context.<anonymous> (file:///C:/Users/Asus/Desktop/ADOPTME/test/routes/pets.router.test.js:36:31)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-06-23T12:11:14.094Z"}
+error: Informacion para editar la mascota incompleta {"timestamp":"2025-06-23T12:29:14.978Z"}
+error: Cast to date failed for value "birthDateTest" (type string) at path "birthDate" {"timestamp":"2025-06-23T12:30:26.539Z"}
+error: Informacion para editar la mascota incompleta {"timestamp":"2025-06-23T12:46:56.578Z"}
+error: PETS ROUTER test error - after Operation `pets.deleteMany()` buffering timed out after 10000ms {"stack":"MongooseError: Operation `pets.deleteMany()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:153:23)\n    at listOnTimeout (node:internal/timers:588:17)\n    at process.processTimers (node:internal/timers:523:7)","timestamp":"2025-06-23T13:49:24.696Z"}
+error: DAO test Error - before connectDataBase is not defined {"stack":"ReferenceError: connectDataBase is not defined\n    at Context.<anonymous> (file:///C:/Users/Asus/Desktop/ADOPTME/test/dao/Users.dao.test.js:17:13)\n    at callFn (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\mocha\\lib\\runnable.js:366:21)\n    at Runnable.run (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\mocha\\lib\\runnable.js:354:5)\n    at next (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\mocha\\lib\\runner.js:547:10)\n    at Immediate._onImmediate (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\mocha\\lib\\runner.js:608:5)\n    at process.processImmediate (node:internal/timers:485:21)","timestamp":"2025-06-23T13:51:05.913Z"}
+error: DAO test error - after Operation `users.deleteMany()` buffering timed out after 10000ms {"stack":"MongooseError: Operation `users.deleteMany()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:153:23)\n    at listOnTimeout (node:internal/timers:588:17)\n    at process.processTimers (node:internal/timers:523:7)","timestamp":"2025-06-23T13:51:15.945Z"}
+error: Error en SESSIONS ROUTER userMock is not defined {"stack":"ReferenceError: userMock is not defined\n    at Context.<anonymous> (file:///C:/Users/Asus/Desktop/ADOPTME/test/routes/sessions.router.test.js:30:24)","timestamp":"2025-06-23T14:15:51.353Z"}
+error: Error en SESSIONS ROUTER userMock is not defined {"stack":"ReferenceError: userMock is not defined\n    at Context.<anonymous> (file:///C:/Users/Asus/Desktop/ADOPTME/test/routes/sessions.router.test.js:30:24)","timestamp":"2025-06-23T14:16:48.453Z"}
+error: Error en after - sessions router test {"timestamp":"2025-06-23T14:19:37.968Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-23T14:33:52.655Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-23T14:33:52.674Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-23T14:33:52.682Z"}
+error: Error capturado en deleteUser:  El id ingresado es invalido {"cause":"El id ingresado no corresponde a un ObjectId de Mongo","code":400,"custom":true,"name":"DATA_INVALID","stack":"DATA_INVALID: El id ingresado es invalido\n    at CustomError.generateError (file:///C:/Users/Asus/Desktop/ADOPTME/src/utils/CustomError.js:3:21)\n    at deleteUser (file:///C:/Users/Asus/Desktop/ADOPTME/src/controllers/users.controller.js:77:25)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:284:15\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:376:14)\n    at Function.process_params (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:421:3)","timestamp":"2025-06-23T14:33:52.689Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-23T14:33:52.689Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-23T14:45:58.945Z"}
+error: Error en after - users router test {"timestamp":"2025-06-23T14:50:52.661Z"}
+error: Error en after - users router test {"timestamp":"2025-06-23T14:52:26.768Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-23T22:22:36.592Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-23T22:23:50.278Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-23T22:25:04.424Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-23T22:25:56.995Z"}
+error: Error capturado en deleteUser:  El id ingresado es invalido {"cause":"El id ingresado no corresponde a un ObjectId de Mongo","code":400,"custom":true,"name":"DATA_INVALID","stack":"DATA_INVALID: El id ingresado es invalido\n    at CustomError.generateError (file:///C:/Users/Asus/Desktop/ADOPTME/src/utils/CustomError.js:3:21)\n    at deleteUser (file:///C:/Users/Asus/Desktop/ADOPTME/src/controllers/users.controller.js:77:25)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:284:15\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:376:14)\n    at Function.process_params (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:421:3)","timestamp":"2025-06-23T22:35:33.951Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-23T22:35:33.952Z"}
+error: Error capturado en deleteUser:  El id ingresado es invalido {"cause":"El id ingresado no corresponde a un ObjectId de Mongo","code":400,"custom":true,"name":"DATA_INVALID","stack":"DATA_INVALID: El id ingresado es invalido\n    at CustomError.generateError (file:///C:/Users/Asus/Desktop/ADOPTME/src/utils/CustomError.js:3:21)\n    at deleteUser (file:///C:/Users/Asus/Desktop/ADOPTME/src/controllers/users.controller.js:77:25)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:284:15\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:376:14)\n    at Function.process_params (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:421:3)","timestamp":"2025-06-23T22:37:01.274Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-23T22:37:01.275Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-23T22:38:21.480Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-23T22:38:21.498Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-23T22:38:21.514Z"}
+error: Error capturado en deleteUser:  El id ingresado es invalido {"cause":"El id ingresado no corresponde a un ObjectId de Mongo","code":400,"custom":true,"name":"DATA_INVALID","stack":"DATA_INVALID: El id ingresado es invalido\n    at CustomError.generateError (file:///C:/Users/Asus/Desktop/ADOPTME/src/utils/CustomError.js:3:21)\n    at deleteUser (file:///C:/Users/Asus/Desktop/ADOPTME/src/controllers/users.controller.js:77:25)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:284:15\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:376:14)\n    at Function.process_params (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:421:3)","timestamp":"2025-06-23T22:38:21.520Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-23T22:38:21.521Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-23T22:53:15.280Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-23T22:53:15.290Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-23T22:53:15.296Z"}
+error: Error capturado en deleteUser:  El id ingresado es invalido {"cause":"El id ingresado no corresponde a un ObjectId de Mongo","code":400,"custom":true,"name":"DATA_INVALID","stack":"DATA_INVALID: El id ingresado es invalido\n    at CustomError.generateError (file:///C:/Users/Asus/Desktop/ADOPTME/src/utils/CustomError.js:3:21)\n    at deleteUser (file:///C:/Users/Asus/Desktop/ADOPTME/src/controllers/users.controller.js:77:25)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:284:15\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at param (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:376:14)\n    at Function.process_params (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\express\\lib\\router\\index.js:421:3)","timestamp":"2025-06-23T22:53:15.303Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-23T22:53:15.304Z"}
+error: La cookie esta vacia {"timestamp":"2025-06-24T00:29:01.876Z"}
+error: La cookie esta vacia {"timestamp":"2025-06-24T00:30:59.962Z"}
+error: La cookie esta vacia {"timestamp":"2025-06-24T00:36:58.414Z"}
+error: La cookie esta vacia {"timestamp":"2025-06-24T00:43:19.522Z"}
+error: No se encontro usuario en la base de datos con el mail ingresado {"timestamp":"2025-06-24T02:18:18.149Z"}
+error: invalid signature {"timestamp":"2025-06-24T02:20:16.522Z"}
+error: invalid signature {"timestamp":"2025-06-24T02:22:40.439Z"}
+error: invalid signature {"timestamp":"2025-06-24T02:22:50.562Z"}
+error: invalid signature {"timestamp":"2025-06-24T02:25:20.317Z"}
+error: invalid signature {"timestamp":"2025-06-24T02:25:28.481Z"}
+error: id is not defined {"timestamp":"2025-06-24T12:27:45.469Z"}
+error: id is not defined {"timestamp":"2025-06-24T12:27:45.477Z"}
+error: Unexpected field {"timestamp":"2025-06-24T12:29:23.888Z"}
+error: ENOENT: no such file or directory, open 'C:\Users\Asus\Desktop\ADOPTME\src\documents\img\1750769089466-collie prueba.webp' {"timestamp":"2025-06-24T12:44:49.472Z"}
+error: Parameter "filter" to findOne() must be an object, got 685a9339201a12726495386f {"timestamp":"2025-06-24T13:02:36.652Z"}
+error: Parameter "filter" to findOne() must be an object, got 685a9339201a12726495386f {"timestamp":"2025-06-24T13:02:36.655Z"}
+error: usersService.updateWithFile is not a function {"timestamp":"2025-06-24T13:18:55.864Z"}
+error: usersService.updateWithFile is not a function {"timestamp":"2025-06-24T13:18:55.866Z"}
+error: id is not defined {"timestamp":"2025-06-24T19:12:45.959Z"}
+error: id is not defined {"timestamp":"2025-06-24T19:12:45.962Z"}
+error: Maximum call stack size exceeded {"timestamp":"2025-06-24T19:13:20.928Z"}
+error: Maximum call stack size exceeded {"timestamp":"2025-06-24T19:13:20.930Z"}
+error: Maximum call stack size exceeded {"timestamp":"2025-06-24T19:32:19.798Z"}
+error: Maximum call stack size exceeded {"timestamp":"2025-06-24T19:32:19.800Z"}
+error: ENOENT: no such file or directory, open 'C:\Users\Asus\Desktop\ADOPTME\src\uploaderFiles\text_documents\1750795414785-prueba nota.txt' {"timestamp":"2025-06-24T20:03:34.811Z"}
+error: Cannot read properties of undefined (reading 'filename') {"timestamp":"2025-06-24T21:03:49.286Z"}
+error: Cannot read properties of undefined (reading 'filename') {"timestamp":"2025-06-24T21:03:49.297Z"}
+error: Cannot read properties of undefined (reading 'filename') {"timestamp":"2025-06-24T21:04:53.108Z"}
+error: Cannot read properties of undefined (reading 'filename') {"timestamp":"2025-06-24T21:04:53.110Z"}
+error: Cannot read properties of undefined (reading 'filename') {"timestamp":"2025-06-24T21:05:06.537Z"}
+error: Cannot read properties of undefined (reading 'filename') {"timestamp":"2025-06-24T21:05:06.539Z"}
+error: Cannot read properties of undefined (reading 'filename') {"timestamp":"2025-06-24T21:06:56.163Z"}
+error: Cannot read properties of undefined (reading 'filename') {"timestamp":"2025-06-24T21:06:56.164Z"}
+error: Cannot read properties of undefined (reading 'filename') {"timestamp":"2025-06-24T21:12:43.765Z"}
+error: Cannot read properties of undefined (reading 'filename') {"timestamp":"2025-06-24T21:12:43.766Z"}
+error: Cannot read properties of undefined (reading 'filename') {"timestamp":"2025-06-24T21:13:06.655Z"}
+error: Cannot read properties of undefined (reading 'filename') {"timestamp":"2025-06-24T21:13:06.658Z"}
+error: ENOENT: no such file or directory, open 'C:\Users\Asus\Desktop\ADOPTME\src\uploaderFiles\images\pets.images\text.documents\1750800557528-collie prueba.webp' {"timestamp":"2025-06-24T21:29:17.532Z"}
+error: ENOENT: no such file or directory, open 'C:\Users\Asus\Desktop\ADOPTME\src\uploaderFiles\images\pets.images\text.documents\1750800570902-collie prueba.webp' {"timestamp":"2025-06-24T21:29:30.904Z"}
+error: uploadFile is not defined {"timestamp":"2025-06-25T00:10:40.311Z"}
+error: uploadFile is not defined {"timestamp":"2025-06-25T00:10:40.314Z"}
+error: Cannot read properties of undefined (reading 'map') {"timestamp":"2025-06-25T00:22:14.502Z"}
+error: Cannot read properties of undefined (reading 'map') {"timestamp":"2025-06-25T00:22:14.505Z"}
+error: Cannot read properties of undefined (reading 'map') {"timestamp":"2025-06-25T00:28:50.315Z"}
+error: Cannot read properties of undefined (reading 'map') {"timestamp":"2025-06-25T00:28:50.318Z"}
+error: Cannot read properties of undefined (reading 'map') {"timestamp":"2025-06-25T00:28:57.433Z"}
+error: Cannot read properties of undefined (reading 'map') {"timestamp":"2025-06-25T00:28:57.435Z"}
+error: No se enviaron archivos {"timestamp":"2025-06-25T01:50:55.806Z"}
+error: No se enviaron archivos {"timestamp":"2025-06-25T01:50:55.808Z"}
+error: No se enviaron archivos {"timestamp":"2025-06-25T02:00:21.994Z"}
+error: No se enviaron archivos {"timestamp":"2025-06-25T02:00:21.996Z"}
+error: El tipo de dato capturado en req.files es invalido {"timestamp":"2025-06-25T02:18:30.344Z"}
+error: El tipo de dato capturado en req.files es invalido {"timestamp":"2025-06-25T02:18:30.345Z"}
+error: Unexpected field {"timestamp":"2025-06-25T02:20:01.106Z"}
+error: Unexpected field {"timestamp":"2025-06-25T02:20:17.376Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-25T11:50:02.537Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T11:50:02.561Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T11:50:02.594Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T11:50:02.628Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T11:50:02.629Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T11:50:02.636Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T11:50:02.637Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-25T11:50:43.967Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T11:50:43.985Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T11:50:44.004Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T11:50:44.032Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T11:50:44.032Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T11:50:44.043Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T11:50:44.044Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-25T11:51:21.900Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T11:51:21.919Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T11:51:21.942Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T11:51:21.964Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T11:51:21.965Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T11:51:21.977Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T11:51:21.978Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-25T11:55:22.994Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T11:55:23.013Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T11:55:23.038Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T11:55:23.060Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T11:55:23.062Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T11:55:23.072Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T11:55:23.072Z"}
+error: resultUpdate is not defined {"timestamp":"2025-06-25T12:05:56.782Z"}
+error: resultUpdate is not defined {"timestamp":"2025-06-25T12:05:56.791Z"}
+error: Usuario no encontrado con ese ID {"timestamp":"2025-06-25T12:13:46.102Z"}
+error: Usuario no encontrado con ese ID {"timestamp":"2025-06-25T12:13:46.104Z"}
+error: resultFinal is not defined {"timestamp":"2025-06-25T12:21:42.405Z"}
+error: resultFinal is not defined {"timestamp":"2025-06-25T12:21:42.428Z"}
+error: document is not defined {"timestamp":"2025-06-25T12:36:47.165Z"}
+error: document is not defined {"timestamp":"2025-06-25T12:36:47.167Z"}
+error: documents is not defined {"timestamp":"2025-06-25T12:37:05.615Z"}
+error: documents is not defined {"timestamp":"2025-06-25T12:37:05.618Z"}
+error: Cannot read properties of undefined (reading '-1') {"timestamp":"2025-06-25T12:38:48.378Z"}
+error: Cannot read properties of undefined (reading '-1') {"timestamp":"2025-06-25T12:38:48.380Z"}
+error: Usuario no encontrado con ese ID {"timestamp":"2025-06-25T12:40:41.032Z"}
+error: Usuario no encontrado con ese ID {"timestamp":"2025-06-25T12:40:41.036Z"}
+error: Cannot read properties of undefined (reading 'length') {"timestamp":"2025-06-25T12:49:21.159Z"}
+error: Cannot read properties of undefined (reading 'length') {"timestamp":"2025-06-25T12:49:21.163Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T13:12:29.989Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T13:12:29.992Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-25T13:14:28.883Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T13:14:28.904Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T13:14:28.924Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T13:14:28.946Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T13:14:28.948Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T13:14:28.962Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T13:14:28.962Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T13:16:35.906Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T13:16:35.915Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:05:58.026Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:05:58.029Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:09:12.293Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:09:12.294Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:12:19.517Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:12:19.520Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:13:11.859Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:13:11.860Z"}
+error: result is not defined {"timestamp":"2025-06-25T22:18:49.694Z"}
+error: result is not defined {"timestamp":"2025-06-25T22:18:49.696Z"}
+error: result is not defined {"timestamp":"2025-06-25T22:21:53.568Z"}
+error: result is not defined {"timestamp":"2025-06-25T22:21:53.570Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:23:38.237Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:23:38.241Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:24:01.446Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:24:01.448Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:25:11.908Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:25:11.909Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:27:36.565Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:27:36.568Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:28:57.797Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:28:57.798Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:30:28.655Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:30:28.658Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:31:26.345Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:31:26.347Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:33:24.092Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:33:24.095Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:39:24.781Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:39:24.795Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:39:58.779Z"}
+error: Error al agregar los archivos al usuario {"timestamp":"2025-06-25T22:39:58.780Z"}
+error: No se enviaron archivos {"timestamp":"2025-06-25T22:42:25.080Z"}
+error: No se enviaron archivos {"timestamp":"2025-06-25T22:42:25.082Z"}
+error: Usuario no encontrado con ese ID {"timestamp":"2025-06-25T22:56:08.206Z"}
+error: Usuario no encontrado con ese ID {"timestamp":"2025-06-25T22:56:08.208Z"}
+error: Error en before users router test Invalid URL {"code":"ERR_INVALID_URL","input":"http://localhost:8090api/users","stack":"TypeError: Invalid URL\n    at new URL (node:internal/url:818:25)\n    at Request.request (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\superagent\\lib\\node\\index.js:678:15)\n    at Request.end (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\superagent\\lib\\node\\index.js:909:8)\n    at Test.end (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\supertest\\lib\\test.js:133:11)\n    at C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\superagent\\lib\\request-base.js:265:12\n    at new Promise (<anonymous>)\n    at RequestBase.then (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\superagent\\lib\\request-base.js:249:31)","timestamp":"2025-06-25T23:01:59.551Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T23:02:28.648Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T23:02:28.669Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T23:02:28.689Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T23:02:28.689Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-25T23:03:11.651Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T23:03:11.663Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T23:03:11.673Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T23:03:11.696Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T23:03:11.697Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-25T23:03:22.265Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T23:03:22.280Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T23:03:22.287Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T23:03:22.306Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T23:03:22.308Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-25T23:04:01.260Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T23:04:01.279Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T23:04:01.289Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T23:04:01.312Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T23:04:01.312Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-25T23:05:11.909Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T23:05:11.926Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T23:05:11.935Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T23:05:11.963Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T23:05:11.964Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-25T23:05:47.483Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T23:05:47.506Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-25T23:05:47.517Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T23:05:47.545Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-25T23:05:47.546Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-26T11:48:48.726Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-26T11:48:48.746Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-26T11:48:48.778Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-26T11:48:48.820Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-26T11:48:48.838Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-26T11:48:59.996Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-26T11:49:00.011Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-26T11:49:00.021Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-26T11:49:00.043Z"}
+error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Users" {"timestamp":"2025-06-26T11:49:00.050Z"}
+error: Error en before users router test Cannot read properties of undefined (reading 'first_name') {"stack":"TypeError: Cannot read properties of undefined (reading 'first_name')\n    at Context.<anonymous> (file:///C:/Users/Asus/Desktop/ADOPTME/test/routes/users.router.test.js:24:42)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-06-26T11:49:56.759Z"}
+error: No hay usuarios guadados en la base de datos {"timestamp":"2025-06-26T11:49:56.771Z"}
+error: Error en before users router test Cannot read properties of undefined (reading 'first_name') {"stack":"TypeError: Cannot read properties of undefined (reading 'first_name')\n    at Context.<anonymous> (file:///C:/Users/Asus/Desktop/ADOPTME/test/routes/users.router.test.js:24:42)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-06-26T11:51:32.376Z"}
+error: Error en before users router test Cannot read properties of undefined (reading 'first_name') {"stack":"TypeError: Cannot read properties of undefined (reading 'first_name')\n    at Context.<anonymous> (file:///C:/Users/Asus/Desktop/ADOPTME/test/routes/users.router.test.js:24:42)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-06-26T11:52:55.599Z"}
+error: Error en before users router test peticion is not defined {"stack":"ReferenceError: peticion is not defined\n    at Context.<anonymous> (file:///C:/Users/Asus/Desktop/ADOPTME/test/routes/users.router.test.js:22:45)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-06-26T11:54:43.740Z"}
+error: Error en before users router test Cannot read properties of undefined (reading 'first_name') {"stack":"TypeError: Cannot read properties of undefined (reading 'first_name')\n    at Context.<anonymous> (file:///C:/Users/Asus/Desktop/ADOPTME/test/routes/users.router.test.js:24:42)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-06-26T11:55:12.186Z"}
+error: Error en before users router test Cannot read properties of undefined (reading 'first_name') {"stack":"TypeError: Cannot read properties of undefined (reading 'first_name')\n    at Context.<anonymous> (file:///C:/Users/Asus/Desktop/ADOPTME/test/routes/users.router.test.js:24:42)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-06-26T11:55:48.703Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-26T12:00:48.649Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-26T12:01:36.281Z"}
+error: Campos incompletos para editar al usuario {"timestamp":"2025-06-26T12:03:20.229Z"}
+error: La fecha ingresada en el campo birthDate es invalida {"timestamp":"2025-06-26T21:18:59.952Z"}
+error: Debes pasar correctamente los datos para crear la mascota {"timestamp":"2025-06-26T21:20:51.568Z"}
+error: Debes pasar correctamente los datos para crear la mascota {"timestamp":"2025-06-26T21:21:10.931Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-26T21:45:36.811Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-26T21:50:28.728Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-26T21:50:54.733Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-26T21:51:09.350Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-26T21:51:29.311Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-26T21:51:49.769Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-26T21:51:52.493Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-26T21:53:24.484Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-26T21:53:50.861Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-26T21:53:52.496Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-26T21:53:55.042Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-26T22:12:50.700Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-26T22:13:09.255Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-26T22:13:27.899Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-26T22:14:22.553Z"}
+error: Unexpected field {"timestamp":"2025-06-26T22:24:50.117Z"}
+error: Unexpected field {"timestamp":"2025-06-26T22:25:02.664Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-26T22:37:20.451Z"}
+error: Campos incompletos para crear la mascota con imagen {"timestamp":"2025-06-27T02:26:51.887Z"}
+error: Informacion para editar la mascota incompleta {"timestamp":"2025-06-27T12:24:59.403Z"}
+error: Cast to ObjectId failed for value "685e924c88bf81d704eed84" (type string) at path "_id" for model "Pets" {"timestamp":"2025-06-27T12:45:28.327Z"}
+error: Error en la eliminacion de la mascota con id 685e924c88bf81d704eed842 {"timestamp":"2025-06-27T12:45:52.262Z"}
+error: Cast to ObjectId failed for value "codigo1" (type string) at path "_id" for model "Pets" {"timestamp":"2025-06-27T12:46:09.033Z"}
+error: No se encontro usuario en la base de datos con el mail ingresado {"timestamp":"2025-06-27T18:40:02.142Z"}
+error: No se encontro usuario en la base de datos con el mail ingresado {"timestamp":"2025-06-27T18:43:12.993Z"}
+error: No se encontro usuario en la base de datos con el mail ingresado {"timestamp":"2025-06-27T18:43:39.272Z"}
+error: La mascota ya fue adoptada {"timestamp":"2025-06-28T02:19:42.874Z"}
+error: La mascota ya fue adoptada {"timestamp":"2025-06-28T13:12:24.911Z"}
+error: Cast to ObjectId failed for value "685f4e3617c6a3a66c998c3" (type string) at path "_id" for model "Adoptions" {"timestamp":"2025-06-28T13:23:46.064Z"}
+error: Cast to ObjectId failed for value "idnuevo55" (type string) at path "_id" for model "Adoptions" {"timestamp":"2025-06-28T13:24:17.864Z"}
+error: Adopcion inexistente {"timestamp":"2025-06-28T13:25:48.965Z"}
+error: Cast to ObjectId failed for value "685f4e3617c6a3a66c998c3" (type string) at path "_id" for model "Adoptions" {"timestamp":"2025-06-28T13:25:54.820Z"}
+error: El id ingresado no corresponde a un id de MongoDB {"timestamp":"2025-06-28T13:27:55.942Z"}
+error: Cannot set headers after they are sent to the client {"timestamp":"2025-06-28T13:34:03.047Z"}
+error: Cannot set headers after they are sent to the client {"timestamp":"2025-06-28T13:34:52.588Z"}
+error: La mascota ya fue adoptada {"timestamp":"2025-06-28T13:59:59.197Z"}
+error: Adopcion inexistente {"timestamp":"2025-06-28T14:00:36.574Z"}
+error: La mascota ya fue adoptada {"timestamp":"2025-06-28T21:40:04.803Z"}
+error: El id ingresado no corresponde a un id de MongoDB {"timestamp":"2025-06-28T22:14:05.248Z"}
+error: Adopcion inexistente {"timestamp":"2025-06-28T22:14:09.607Z"}
+error: El id ingresado no corresponde a un id de MongoDB {"timestamp":"2025-06-28T22:14:22.469Z"}
+error: El id ingresado no corresponde a un id de MongoDB {"timestamp":"2025-06-29T03:49:03.701Z"}
+error: Adopcion inexistente {"timestamp":"2025-06-29T03:49:43.377Z"}
+error: No se encontro usuario en la base de datos con el mail ingresado {"timestamp":"2025-06-29T14:06:34.665Z"}
+error: No se encontro usuario en la base de datos con el mail ingresado {"timestamp":"2025-06-29T14:06:51.750Z"}
+error: No se ha encontrado un usuario con id 686144f64bdd6df9079d0f78 {"timestamp":"2025-06-29T14:09:30.731Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-29T14:09:35.981Z"}
+error: No se ha encontrado un usuario con id 686147576bcc5ea4180c8ecc {"timestamp":"2025-06-29T14:15:00.849Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-29T14:15:04.499Z"}
+error: No se pudo eliminar al usuario {"timestamp":"2025-06-29T14:16:27.369Z"}
+error: No se pudo eliminar al usuario {"timestamp":"2025-06-29T14:16:27.370Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-29T14:16:31.759Z"}
+error: El id ingresado es invalido {"timestamp":"2025-06-29T14:16:31.759Z"}
+error: Adopcion inexistente {"timestamp":"2025-06-29T14:26:56.116Z"}
+error: Adopcion inexistente {"timestamp":"2025-06-29T14:29:16.197Z"}
+error: La mascota ya fue adoptada {"timestamp":"2025-06-29T17:57:23.687Z"}
+error: El correo electronico ya se encuentra en uso {"timestamp":"2025-06-29T18:27:30.168Z"}
+error: El correo electronico ya se encuentra en uso {"timestamp":"2025-06-29T18:28:28.132Z"}
+error: PETS ROUTER test error - after Operation `users.deleteMany()` buffering timed out after 10000ms {"stack":"MongooseError: Operation `users.deleteMany()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (C:\\Users\\Asus\\Desktop\\ADOPTME\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:153:23)\n    at listOnTimeout (node:internal/timers:588:17)\n    at process.processTimers (node:internal/timers:523:7)","timestamp":"2025-06-29T19:22:08.263Z"}
+error: El correo electronico ya se encuentra en uso {"timestamp":"2025-07-13T21:19:11.019Z"}
